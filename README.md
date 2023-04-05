@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dc4663
+- 👋 Hi, My Name is Durlov Chowdhary, I am a fullstack mobile application developer
 - 👀 I’m interested in Android development.
-- 🌱 I’m currently learning python.
+- 🌱 Please mail me at durlovchowdhary2@gmail.com for any Mobile Application Development
 - 💞️ I’m looking to collaborate on coding
 
 <!---
